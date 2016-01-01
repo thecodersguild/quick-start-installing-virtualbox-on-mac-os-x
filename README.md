@@ -8,6 +8,16 @@ According to Wikipedia a **Virtual Machine** is:
 
 > _An emulation of a particular computer system. Virtual machines operate based on the computer architecture and functions of a real or hypothetical computer, and their implementations may involve specialized hardware, software, or a combination of both._
 
+If you are familiar with [**VMware Fusion**](http://www.vmware.com/products/fusion/) then it should be easy to understand that VirtualBox is simply an open-source equivalent to VMware similar to how Linux is an open-source equivalent to Windows.
+
+##Why Use VirtualBox? 
+There are many reasons to run a virtual machine using VirtualBox but the reason the author uses it is for running a local web server stack during development and being able to switch between different configurations that reasonably match the production environments for different clients. 
+
+If you'd like to know other reasons to use VirtualBox, [**just click here**](http://lmgtfy.com/?q=reasons+to+use+virtualbox).
+
+###[Developers, Developers, Developers!](https://www.youtube.com/watch?v=KMU0tzLwhbE)
+The primary tool that developers use with VirtualBox is **Vagrant**. If you are a software developer and are not familiar with Vagrant or have yet to start using it, read our _"[_**Learning Vagrant for WordPress From The Ground Up.**_](https://github.com/thecodersguild/learning-vagrant-for-wordpress)"_
+
 ##Downloading and Installing VirtualBox 
 Simply visit the [**VirtualBox Download Page**](https://www.virtualbox.org/wiki/Downloads) to find, download and then install the latest version of VirtualBox.
 
