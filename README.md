@@ -1,4 +1,4 @@
-#Quick Start Installing Oracle's VirtualBox on Mac OS X
+#Quick Start Installing VirtualBox on Mac OS X
 
 > **Written 2016-01-01 by [@mikeschinkel](http://twitter.com/mikeschinkel)**
 
@@ -30,6 +30,6 @@ Of you can just [**download the same as a shell script**](install-virtualbox.sh)
 	rm install-virtualbox.sh
 
 ##Download and Install using HomeBrew
-Of course if you happen to already be [**using HomeBrew and its Casks**]() then installing VirtualBox is much easier:
+Of course if you happen to already be [**using HomeBrew and its Casks**](https://github.com/thecodersguild/quick-start-using-homebrew-on-mac-os-x) then installing VirtualBox is much easier:
 
     brew cask install virtualbox
