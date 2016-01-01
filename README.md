@@ -15,7 +15,7 @@ There are many reasons to run a virtual machine using VirtualBox but the reason 
 
 If you'd like to know other reasons to use VirtualBox, [**just click here**](http://lmgtfy.com/?q=reasons+to+use+virtualbox).
 
-###[Developers, Developers, Developers!](https://www.youtube.com/watch?v=KMU0tzLwhbE)
+###[Developers, Developers, Developers, Developers!](https://www.youtube.com/watch?v=KMU0tzLwhbE)
 The primary tool that developers use with VirtualBox is **Vagrant**. If you are a software developer and are not familiar with Vagrant or have yet to start using it, read our _"[_**Learning Vagrant for WordPress From The Ground Up.**_](https://github.com/thecodersguild/learning-vagrant-for-wordpress)"_
 
 ##Downloading and Installing VirtualBox 
