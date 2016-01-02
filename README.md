@@ -15,11 +15,11 @@ There are many reasons to run a virtual machine using VirtualBox but the reason 
 
 If you'd like to know other reasons to use VirtualBox, [**just click here**](http://lmgtfy.com/?q=reasons+to+use+virtualbox).
 
-###[Developers, Developers, Developers, Developers!](https://www.youtube.com/watch?v=KMU0tzLwhbE)
+###[Developers, Developers, Developers!](https://www.youtube.com/watch?v=KMU0tzLwhbE)
 The primary tool that developers use with VirtualBox is **Vagrant**. If you are a software developer and are not familiar with Vagrant or have yet to start using it, read our _"[_**Learning Vagrant for WordPress From The Ground Up.**_](https://github.com/thecodersguild/learning-vagrant-for-wordpress)"_
 
 ##Downloading and Installing VirtualBox 
-<span style="font-size:1.25em;background:yellow;">**IMPORTANT AND RECOMMENDED:** _As of January 2016 we have found numerous compatibilities issues with VirtualBox version `5.0.x` and Vagrant version  `1.1.8` so we recommend you first try version 4.x of VirtualBox instead. To do so [_**jump to those instructions**_](#version-4.x)._</span> 
+<span style="font-size:1.25em;background:yellow;">**IMPORTANT AND RECOMMENDED:** _As of January 2016 we have found numerous compatibilities issues with VirtualBox version `5.0.x` and Vagrant version  `1.1.8` so we recommend you first try version 4.x of VirtualBox instead. To do so [**jump to those instructions**](https://github.com/thecodersguild/quick-start-installing-virtualbox-on-mac-os-x#version-43x)_.</span>
 
 To download and install the latest VirtualBox simply visit the [**VirtualBox Download Page**](https://www.virtualbox.org/wiki/Downloads) to find, download and then install the latest version of VirtualBox.
 
@@ -48,7 +48,7 @@ Of course if you happen to already be [**using HomeBrew and its Casks**](https:/
     
 If you decided to install VirtualBox version 5.x with the above instructions [**click here to continue**](#skip-4.x).
 
-##<span id="version-4.x">Alternate: Download and Install VirtualBox 4.3.x Instead</span>
+##Version 4.3.x
 
 To download and install VirtualBox 4.3 simply visit the [**VirtualBox _"Old Builds"_ Download Page**](https://www.virtualbox.org/wiki/Download_Old_Builds_4_3) to find, download and then install the version `4.3.x` of VirtualBox. 
 
