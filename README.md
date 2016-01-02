@@ -10,20 +10,23 @@ According to Wikipedia a **Virtual Machine** is:
 
 If you are familiar with [**VMware Fusion**](http://www.vmware.com/products/fusion/) then it should be easy to understand that VirtualBox is simply an open-source equivalent to VMware similar to how Linux is an open-source equivalent to Windows.
 
-##Why Use VirtualBox? 
-There are many reasons to run a virtual machine using VirtualBox but the reason the author uses it is for running a local web server stack during development and being able to switch between different configurations that reasonably match the production environments for different clients. 
+##Why Use VirtualBox?
+
+There are many reasons to run a virtual machine using VirtualBox but the reason the author uses it is for running a local web server stack during development and being able to switch between different configurations that reasonably match the production environments for different clients.
 
 If you'd like to know other reasons to use VirtualBox, [**just click here**](http://lmgtfy.com/?q=reasons+to+use+virtualbox).
 
 ###[Developers, Developers, Developers!](https://www.youtube.com/watch?v=KMU0tzLwhbE)
+
 The primary tool that developers use with VirtualBox is **Vagrant**. If you are a software developer and are not familiar with Vagrant or have yet to start using it, read our _"[_**Learning Vagrant for WordPress From The Ground Up.**_](https://github.com/thecodersguild/learning-vagrant-for-wordpress)"_
 
-##Downloading and Installing VirtualBox 
+##Downloading and Installing VirtualBox
+##Downloading and Installing VirtualBox
 ####**IMPORTANT:** _As of January 2016 we know of numerous incompatibilities between VirtualBox version `5.0.x` and Vagrant version  `1.1.8` so we suggest you try VirtualBox version 4.x instead.  To do so [**jump to those instructions**](#version-43x) (**RECOMMENDED**.)_
 
 To download and install the latest VirtualBox simply visit the [**VirtualBox Download Page**](https://www.virtualbox.org/wiki/Downloads) to find, download and then install the latest version of VirtualBox.
 
-At the time of this writing the latest version of VirtualBox was `5.0.12` which you can [**download directly from here**](http://download.virtualbox.org/virtualbox/5.0.12/VirtualBox-5.0.12-104815-OSX.dmg). 
+At the time of this writing the latest version of VirtualBox was `5.0.12` which you can [**download directly from here**](http://download.virtualbox.org/virtualbox/5.0.12/VirtualBox-5.0.12-104815-OSX.dmg).
 
 ###Download and Install via Terminal Command Line Instead
 
@@ -45,18 +48,18 @@ Of you can just [**download the same as a shell script**](install-virtualbox.sh)
 Of course if you happen to already be [**using HomeBrew and its Casks**](https://github.com/thecodersguild/quick-start-using-homebrew-on-mac-os-x) then installing VirtualBox is much easier:
 
     brew cask install virtualbox
-    
-If you decided to install VirtualBox version 5.x with the above instructions [**click here to continue**](#skip-4.x).
+
+If you decided to install VirtualBox version 5.x with the above instructions **you are done!**
 
 ##Version 4.3.x
 
-To download and install VirtualBox 4.3 simply visit the [**VirtualBox _"Old Builds"_ Download Page**](https://www.virtualbox.org/wiki/Download_Old_Builds_4_3) to find, download and then install the version `4.3.x` of VirtualBox. 
+To download and install VirtualBox 4.3 simply visit the [**VirtualBox _"Old Builds"_ Download Page**](https://www.virtualbox.org/wiki/Download_Old_Builds_4_3) to find, download and then install the version `4.3.x` of VirtualBox.
 
-Or [**download `4.3.x` directly from here**](http://download.virtualbox.org/virtualbox/4.3.34/VirtualBox-4.3.34-104062-OSX.dmg). 
+Or [**download `4.3.x` directly from here**](http://download.virtualbox.org/virtualbox/4.3.34/VirtualBox-4.3.34-104062-OSX.dmg).
 
 
 
-###Download and Install 4.3.x via Command Line 
+###Download and Install 4.3.x via Command Line
 
 If you prefer to use the command line from within the OS X Terminal you can run the following commands to download and install version `4.3.34`:
 
