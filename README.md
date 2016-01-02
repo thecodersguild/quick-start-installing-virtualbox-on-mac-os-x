@@ -19,7 +19,7 @@ If you'd like to know other reasons to use VirtualBox, [**just click here**](htt
 The primary tool that developers use with VirtualBox is **Vagrant**. If you are a software developer and are not familiar with Vagrant or have yet to start using it, read our _"[_**Learning Vagrant for WordPress From The Ground Up.**_](https://github.com/thecodersguild/learning-vagrant-for-wordpress)"_
 
 ##Downloading and Installing VirtualBox 
-<span style="font-size:1.25em;background:yellow;">**IMPORTANT AND RECOMMENDED:** _As of January 2016 we have found numerous compatibilities issues with VirtualBox version `5.0.x` and Vagrant version  `1.1.8` so we recommend you first try version 4.x of VirtualBox instead. To do so [**jump to those instructions**](https://github.com/thecodersguild/quick-start-installing-virtualbox-on-mac-os-x#version-43x)_.</span>
+####**IMPORTANT:** _As of January 2016 we know of numerous incompatibilities between VirtualBox version `5.0.x` and Vagrant version  `1.1.8` so we suggest you try VirtualBox version 4.x instead.  To do so [**jump to those instructions**](#version-43x) (**RECOMMENDED**.)_
 
 To download and install the latest VirtualBox simply visit the [**VirtualBox Download Page**](https://www.virtualbox.org/wiki/Downloads) to find, download and then install the latest version of VirtualBox.
 
